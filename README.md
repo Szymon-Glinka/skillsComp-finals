@@ -30,3 +30,9 @@ wget https://files.waveshare.com/upload/2/20/AlphaBot_Demo.7z
 sudo chmod 777 -R AlphaBot_Demo
 cd AlphaBot_Demo/AlphaBot_Demo/RaspberryPi/AlphaBot/
 ```
+
+## TODO
+- [ ] copy code from internet
+- [ ] test if works
+- [ ] if not go to point 1, else go down
+- [ ] stonks
