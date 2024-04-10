@@ -11,3 +11,12 @@
 - https://github.com/jckuri/line-follower-robot
 - https://www.waveshare.com/alphabot-pi.htm
 - https://www.waveshare.com/wiki/File:AlphaBot_Demo.7z
+- https://www.waveshare.com/wiki/AlphaBot (Download Examples)
+
+```shell
+sudo apt-get install p7zip
+wget https://files.waveshare.com/upload/2/20/AlphaBot_Demo.7z
+7zr x AlphaBot_Demo.7z -r -o./AlphaBot_Demo
+sudo chmod 777 -R AlphaBot_Demo
+cd AlphaBot_Demo/AlphaBot_Demo/RaspberryPi/AlphaBot/
+```
