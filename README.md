@@ -1,4 +1,4 @@
-# skillscomp_finals
+# totally not suspicious github repo
 
 - https://projects.raspberrypi.org/en/projects/rpi-python-line-following/6
 - https://learn.parallax.com/tutorials/qti-line-follower-cyberbot/python-program-line-following
