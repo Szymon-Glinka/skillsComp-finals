@@ -5,7 +5,6 @@
 - https://ai.thestempedia.com/example/line-follower-robot-full-python/
 - https://github.com/topics/line-follower-robot
 - https://circuitdigest.com/microcontroller-projects/raspberry-pi-line-follower-robot
-- https://github.com/nplan/gym-line-follower
 - https://www.instructables.com/Make-a-FAST-Line-Follower-Robot-Using-PID/
 - https://github.com/jckuri/line-follower-robot
 - https://www.waveshare.com/alphabot-pi.htm
