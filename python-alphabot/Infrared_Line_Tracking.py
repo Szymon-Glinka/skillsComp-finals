@@ -67,11 +67,8 @@ class TRSensor(object):
 		max_sensor_values = [0]*self.numSensors
 		min_sensor_values = [0]*self.numSensors
 		for j in range(0,10):
-		
-			sensor_values = self.AnalogRead();
-			
-			for i in range(0,self.numSensors):
-			
+			sensor_values = self.AnalogRead()
+			for i in range(0,self.numSensors)
 				# set the max we found THIS time
 				if((j == 0) or max_sensor_values[i] < sensor_values[i]):
 					max_sensor_values[i] = sensor_values[i]
@@ -94,15 +91,12 @@ class TRSensor(object):
 	stored separately for each sensor, so that differences in the
 	sensors are accounted for automatically.
 	"""
-	def	readCalibrated(self):
+	def readCalibrated(self):
 		value = 0
 		#read the needed values
 		sensor_values = self.AnalogRead();
-
 		for i in range (0,self.numSensors):
-
 			denominator = self.calibratedMax[i] - self.calibratedMin[i]
-
 			if(denominator != 0):
 				value = (sensor_values[i] - self.calibratedMin[i])* 1000 / denominator
 				
@@ -110,9 +104,8 @@ class TRSensor(object):
 				value = 0
 			elif(value > 1000):
 				value = 1000
-				
 			sensor_values[i] = value
-		
+			
 		print("readCalibrated",sensor_values)
 		return sensor_values
 			
@@ -138,7 +131,6 @@ class TRSensor(object):
 	before the averaging.
 	"""
 	def readLine(self, white_line = 0):
-
 		sensor_values = self.readCalibrated()
 		avg = 0
 		sum = 0
@@ -161,14 +153,12 @@ class TRSensor(object):
 			if(self.last_value < (self.numSensors - 1)*1000/2):
 				#print("left")
 				return 0;
-	
 			# If it last read to the right of center, return the max.
 			else:
 				#print("right")
 				return (self.numSensors - 1)*1000
 
 		self.last_value = avg/sum
-		
 		return self.last_value
 	
 GPIO.setmode(GPIO.BCM)
@@ -180,9 +170,7 @@ GPIO.setup(DataOut,GPIO.IN,GPIO.PUD_UP)
 
 # Simple example prints accel/mag data once per second:
 if __name__ == '__main__':
-
 	from AlphaBot import AlphaBot
-	
 	maximum = 35;
 	integral = 0;
 	last_proportional = 0
@@ -235,5 +223,3 @@ if __name__ == '__main__':
 		else:
 			Ab.setPWMB(maximum);
 			Ab.setPWMA(maximum - power_difference)
-			 
-
