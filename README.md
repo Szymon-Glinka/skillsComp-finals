@@ -36,3 +36,13 @@ cd AlphaBot_Demo/AlphaBot_Demo/RaspberryPi/AlphaBot/
 - [ ] test if works
 - [ ] if not go to point 1, else go down
 - [ ] stonks
+
+
+## real todo
+- [ ] połączenie z rasberry py
+- [ ] kod że schematu
+- [ ] testy
+- [ ] upgrade do pętli numpy
+- [ ] upgrade do pid
+- [ ] testy vs
+- [ ] stonks
