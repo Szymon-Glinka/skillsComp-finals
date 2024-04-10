@@ -12,6 +12,7 @@
 - https://www.waveshare.com/alphabot-pi.htm
 - https://www.waveshare.com/wiki/File:AlphaBot_Demo.7z
 - https://www.waveshare.com/wiki/AlphaBot (Download Examples)
+- https://projects.raspberrypi.org/en/projects/physical-computing/14
 
 ```shell
 sudo apt-get install p7zip
