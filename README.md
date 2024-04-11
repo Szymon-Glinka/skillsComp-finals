@@ -12,9 +12,6 @@
 - https://www.instructables.com/Make-a-FAST-Line-Follower-Robot-Using-PID/
 - https://pypi.org/project/simple-pid/
 
-## MS whiteboard
-https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtLzlhYWZhMDMzMzU3YTRjNDlhMmEwYmEzM2U4ZGQ5YjRjX0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF9hZjIwZmYyNi04YjlkLTQxNTktOWMzMi0xZDE1MGZkYWNlNmQ=
-
 ## Pi H-bridge
 - https://projects.raspberrypi.org/en/projects/physical-computing/14
 
@@ -30,19 +27,3 @@ wget https://files.waveshare.com/upload/2/20/AlphaBot_Demo.7z
 sudo chmod 777 -R AlphaBot_Demo
 cd AlphaBot_Demo/AlphaBot_Demo/RaspberryPi/AlphaBot/
 ```
-
-## TODO
-- [ ] copy code from internet
-- [ ] test if works
-- [ ] if not go to point 1, else go down
-- [ ] stonks
-
-
-## real todo
-- [ ] połączenie z rasberry py
-- [ ] kod że schematu
-- [ ] testy
-- [ ] upgrade do pętli numpy
-- [ ] upgrade do pid
-- [ ] testy vs
-- [ ] stonks
