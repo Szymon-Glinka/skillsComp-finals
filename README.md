@@ -3,6 +3,7 @@
 ## Simple wall following
 - https://andrewyong7338.medium.com/maze-escape-with-wall-following-algorithm-170c35b88e00
 - https://hackaday.io/project/28646-wall-following-and-obstacle-avoidance
+- https://www.waveshare.com/wiki/AlphaBot#Obstacle_avoidance_module
 
 ## Simple line following
 - https://projects.raspberrypi.org/en/projects/rpi-python-line-following/6
