@@ -1,5 +1,8 @@
 # totally not suspicious github repo
 
+## Simple wall following
+- https://andrewyong7338.medium.com/maze-escape-with-wall-following-algorithm-170c35b88e00
+
 ## Simple line following
 - https://projects.raspberrypi.org/en/projects/rpi-python-line-following/6
 - https://learn.parallax.com/tutorials/qti-line-follower-cyberbot/python-program-line-following
