@@ -8,6 +8,8 @@
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Szymon-Glinka/skillsComp-finals">
 </p>
 
+*logo has been generated using [simple logo generator](https://creecros.github.io/simple_logo_gen/)*
+
 # Totally not suspicious github repo
 Used by Maciek, Kacper and Szymon for finals of skillscomp to store usefull [links](https://github.com/Szymon-Glinka/skillsComp-finals/blob/main/Links.md) and [exaples of code](https://github.com/Szymon-Glinka/skillsComp-finals/tree/main/python-alphabot) for modified [alphabot](https://www.waveshare.com/wiki/AlphaBot).    
 Also used by Szymon to store [solutions for line follower](https://github.com/Szymon-Glinka/skillsComp-finals/tree/main/line_follower-Szymon)
