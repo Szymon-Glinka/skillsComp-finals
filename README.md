@@ -7,5 +7,5 @@
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Szymon-Glinka/skillsComp">
 </p>
 
-# totally not suspicious github repo
-
+# Totally not suspicious github repo
+Used by Maciek, Kacper and Szymon for finals of skillscomp to store usefull links. Also used by Szymon to store solutions for final tasks
