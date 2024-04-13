@@ -10,4 +10,4 @@
 
 # Totally not suspicious github repo
 Used by Maciek, Kacper and Szymon for finals of skillscomp to store usefull [links](https://github.com/Szymon-Glinka/skillsComp-finals/blob/main/Links.md) and [exaples of code](https://github.com/Szymon-Glinka/skillsComp-finals/tree/main/python-alphabot) for modified [alphabot](https://www.waveshare.com/wiki/AlphaBot).    
-Also used by Szymon to store [solutions for final tasks](https://github.com/Szymon-Glinka/skillsComp-finals/tree/main/line_follower-Szymon)
+Also used by Szymon to store [solutions for line follower](https://github.com/Szymon-Glinka/skillsComp-finals/tree/main/line_follower-Szymon)
