@@ -8,4 +8,4 @@
 </p>
 
 # Totally not suspicious github repo
-Used by Maciek, Kacper and Szymon for finals of skillscomp to store usefull [links](https://github.com/Szymon-Glinka/skillsComp-finals/blob/main/Other-links.md). Also used by Szymon to store [solutions for final tasks]()
+Used by Maciek, Kacper and Szymon for finals of skillscomp to store usefull [links](https://github.com/Szymon-Glinka/skillsComp-finals/blob/main/Links.md). Also used by Szymon to store [solutions for final tasks]()
