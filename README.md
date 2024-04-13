@@ -4,8 +4,8 @@
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Award_winners-Maciek,_Kacper,_Szymon-green">
   <img alt="Static Badge" src="https://img.shields.io/badge/skillsComp-Mobile_robotics-blue">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/Szymon-Glinka/skillsComp">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Szymon-Glinka/skillsComp">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/Szymon-Glinka/skillsComp-finals">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Szymon-Glinka/skillsComp-finals">
 </p>
 
 # Totally not suspicious github repo
