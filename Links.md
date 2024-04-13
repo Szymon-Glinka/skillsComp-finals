@@ -1,3 +1,4 @@
+# Links for finals
 ## Simple wall following
 - https://andrewyong7338.medium.com/maze-escape-with-wall-following-algorithm-170c35b88e00
 - https://hackaday.io/project/28646-wall-following-and-obstacle-avoidance
@@ -30,3 +31,11 @@ wget https://files.waveshare.com/upload/2/20/AlphaBot_Demo.7z
 sudo chmod 777 -R AlphaBot_Demo
 cd AlphaBot_Demo/AlphaBot_Demo/RaspberryPi/AlphaBot/
 ```
+
+# Other links
+## PID examples
+https://iautomatyka.pl/kurs-regulacji-pid-wstep-cz-1-34
+
+## AI siulator
+https://github.com/nplan/gym-line-follower
+
